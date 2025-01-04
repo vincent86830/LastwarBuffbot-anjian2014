@@ -5,3 +5,5 @@
 https://drive.google.com/drive/folders/1_MdwKBbzE93fgqvMyFTtlPNN7LTtFXrv?usp=drive_link  
 包含解決簡體中文和關螢幕解析度跑掉等問題  
 目前giuhub上FirstLadyBot沒一個能用的只好自己簡單做一個...
+
+keyword: Last war survival game、Lastwar、FirstLady、Vice President
